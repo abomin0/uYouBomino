@@ -40,7 +40,7 @@
 
 ## Download
 
-- The latest version of **uYouBomino** can be found under [Releases](https://github.com/qnblackcat/uYouPlus/releases/latest).
+- The latest version of **uYouBomino** can be found under [Releases](https://github.com/abomin0/uYouBomino/releases).
 - **Compatibility:** Requires iOS/iPadOS 14.0 or later.
 
 <details>
