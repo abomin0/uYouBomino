@@ -26,7 +26,7 @@
 </p>
 
 > [!NOTE]
-> uYouPlus is a **modified version** of uYou. **Please DO NOT bother MiRO92 with issues unrelated to uYou!**
+> uYouBomino is a **modified version** of uYouPlus. **Please DO NOT bother [Insert uYouPlus Devs Here] with issues unrelated to uYou!**
 
 ## Table of contents
 
@@ -40,13 +40,8 @@
 
 ## Download
 
-- The latest version of **uYouPlus** can be found under [Releases](https://github.com/qnblackcat/uYouPlus/releases/latest).
+- The latest version of **uYouBomino** can be found under [Releases](https://github.com/qnblackcat/uYouPlus/releases/latest).
 - **Compatibility:** Requires iOS/iPadOS 14.0 or later.
-- For AltStore user: 
-
-  - My official AltStore repo: https://qnblackcat.github.io/AltStore/
-
-  - [Open in AltStore (v19.08.2-3.0.3)](http://tinyurl.com/4vzwk5hx) - It will take a while to install because AltStore needs to download the IPA first.
 
 <details>
   <summary>Version information (last updated: Feb 27, 2024)</summary>
@@ -84,13 +79,8 @@ See [Installation - Wiki](https://github.com/qnblackcat/uYouPlus/wiki/Installati
 
 ## Features
 
-1. **[uYou](https://miro92.com/repo/depictions/?p=com.miro.uyou):** Enhance your YouTube experience.
+1. **Made By abomino, Instantly Worth Your Time**
 
-2. **[iSponsorBlock](https://github.com/Galactic-Dev/iSponsorBlock):** A jailbreak tweak that implements the SponsorBlock API to skip sponsorships in YouTube videos.
-
-3. **[YouPiP](https://poomsmart.github.io/repo/depictions/youpip):** Enable **native PiP** in iOS YouTube app.
-
-4. **[YTUHD](https://poomsmart.github.io/repo/depictions/ytuhd):** Unlock 1440p (2K) and 2160p (4K) resolutions in iOS YouTube app.
 
 <details>
   <summary>And many more!</summary>
@@ -123,130 +113,25 @@ See [Installation - Wiki](https://github.com/qnblackcat/uYouPlus/wiki/Installati
 
 <table id='credits'>
 <tr align='center'>
-    <td id='miro92'>
-        <a href='https://github.com/MiRO92'>
-            <img src='https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fih1.redbubble.net%2Fimage.3995961254.2975%2Fst%2Csmall%2C507x507-pad%2C600x600%2Cf8f8f8.jpg&f=1&nofb=1&ipt=63f588098b79d56300fcde4e4a52e8d400d6c21ccb557ad22df090d6ace6d9de&ipo=images' width='140px;' style='border-radius: 99999px;'>
+    <td id='abominoyt'>
+        <a href='https://youtube.com/@abomino?si=JzvFa_oPiuCoQrBx'>
+            <img src='https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.QCca8ogFs5ZJsR9MtQYOLAHaIu%26pid%3DApi&f=1&ipt=0b4d420a2a857e0f5c1c3c5274f9554cc392c94521c41a0f57af9d27b7898992&ipo=images' width='140px;' style='border-radius: 99999px;'>
         </a>
         <br>
-        <a href='https://twitter.com/miro92'>MiRO92</a>
+        <a href='https://youtube.com/@abomino?si=JzvFa_oPiuCoQrBx'>abomino on YouTube</a>
     </td>
-    <td id='poomsmart'>
-        <a href='https://github.com/PoomSmart'>
-            <img src='https://github.com/PoomSmart.png' width='140px;'>
+    <td id='abominodisc'>
+        <a href='https://discord.gg/NNbyw97tkv'>
+            <img src='https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fih1.redbubble.net%2Fimage.3995961254.2975%2Fst%2Csmall%2C507x507-pad%2C600x600%2Cf8f8f8.jpg&f=1&nofb=1&ipt=63f588098b79d56300fcde4e4a52e8d400d6c21ccb557ad22df090d6ace6d9de&ipo=images' width='140px;'>
         </a>
         <br>
-        <a href='https://twitter.com/poomsmart'>PoomSmart</a>
+        <a href='https://discord.gg/NNbyw97tkv'>abomino's Discord Server(e)</a>
     </td>
-    <td id='level3tjg'>
-        <a href='https://github.com/level3tjg'>
-            <img src='https://github.com/level3tjg.png' width='140px;'>
-        </a>
-        <br>
-        <a href='https://twitter.com/level3tjg'>level3tjg</a>
-    </td>
-    <td id='bandarHL'>
-        <a href='https://github.com/BandarHL'>
-            <img src='https://github.com/BandarHL.png' width='140px;'>
-        </a>
-        <br>
-        <a href='https://twitter.com/bandarhl'>BandarHelal</a>
-    </td>
-    <td id='galactic-dev'>
-        <a href='https://github.com/Galactic-Dev'>
-            <img src='https://github.com/Galactic-Dev.png' width='140px;'>
-        </a>
-        <br>
-        <a href='https://twitter.com/dev_galactic'>galactic</a>
-    </td>
-</tr>
-    
-<tr align='center'>
-    <td id='julioverne'>
-        <a href='https://github.com/julioverne'>
-            <img src='https://github.com/julioverne.png' width='140px;'>
-        </a>
-        <br>
-        <a href='https://twitter.com/ijulioverne'>julioverne</a>
-    </td>
-    <td id='hbang'>
-        <a href='https://github.com/hbang'>
-            <img src='https://github.com/hbang.png' width='140px;'>
-        </a>
-        <br>
-        <a href='https://twitter.com/hashbang'>HASHBANG</a>
-    </td>
-    <td id='lyvendia'>
-        <a href='https://github.com/Lyvendia'>
-            <img src='https://github.com/Lyvendia.png' width='140px;'>
-        </a>
-        <br>
-        <a href='https://github.com/Lyvendia'>Lyvendia</a>
-    </td>
-    <td id='foxster'>
-        <a href='https://github.com/therealFoxster'>
-            <img src='https://github.com/therealFoxster.png' width='140px;'>
-        </a>
-        <br>
-        <a href='https://github.com/therealFoxster'>Foxster</a>
-    </td>
-    <td id='ichitaso'>
-        <a href='https://github.com/ichitaso'>
-            <img src='https://github.com/ichitaso.png' width='140px;'>
-        </a>
-        <br>
-        <a href='https://twitter.com/ichitaso'>ichitaso</a>
-    </td>
-</tr>
-  
-<tr align='center'>
-    <td id='ahmed-bafkir'>
-        <a href='https://github.com/AhmedBafkir'>
-            <img src='https://github.com/AhmedBafkir.png' width='140px;'>
-        </a>
-        <br>
-        <a href='https://twitter.com/Peaceful_0'>Ahmed Bafkir</a>
-    </td>
-    <td id='cokepokes'>
-        <a href='https://github.com/CokePokes'>
-            <img src='https://github.com/CokePokes.png' width='140px;'>
-        </a>
-        <br>
-        <a href='https://twitter.com/cokepokes'>CokePokes</a>
-    </td>
-    <td id='isnackable'>
-        <a href='https://github.com/ISnackable'>
-            <img src='https://github.com/ISnackable.png' width='140px;'>
-        </a>
-        <br>
-        <a href='https://isnackable.me/'>Tommy Teo</a>
-    </td>
-    <td id='theos-team'>
-        <a href='https://github.com/theos/theos'>
-            <img src='https://github.com/theos.png' width='140px;'>
-        </a>
-        <br>
-        <a href='https://theos.dev'>theos</a>
-    </td>
-    <td id='qnblackcat'>
-        <a href='https://github.com/qnblackcat'>
-            <img src='https://github.com/qnblackcat.png' width='140px;'>
-        </a>
-        <br>
-        <a href='https://https://twitter.com/t70438299'>qnblackcat</a>
-    </td>
-</tr>
 </table>
 
 ## Support the developers!
 
-- **MiRO92**: https://github.com/MiRO92/uYou-for-YouTube#support
-- **PoomSmart**: https://poomsmart.github.io
-- **level3tjg**: https://ko-fi.com/level3tjg
-- **BandarHL**: https://www.paypal.com/paypalme/BandarHL
-- **julioverne**: https://www.patreon.com/julioverne
-- **Galactic-Dev**:   
-  - Paypal: https://www.paypal.com/paypalme/DBrett684 
-  - Venmo: https://venmo.com/u/DavidBrett
+- **abomino** - [Join The Server](https://discord.gg/NNbyw97tkv)
 
 ## FAQs
 
