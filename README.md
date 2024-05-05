@@ -125,7 +125,7 @@ See [Installation - Wiki](https://github.com/qnblackcat/uYouPlus/wiki/Installati
 <tr align='center'>
     <td id='miro92'>
         <a href='https://github.com/MiRO92'>
-            <img src='https://github.com/MiRO92.png' width='140px;' style='border-radius: 99999px;'>
+            <img src='https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fih1.redbubble.net%2Fimage.3995961254.2975%2Fst%2Csmall%2C507x507-pad%2C600x600%2Cf8f8f8.jpg&f=1&nofb=1&ipt=63f588098b79d56300fcde4e4a52e8d400d6c21ccb557ad22df090d6ace6d9de&ipo=images' width='140px;' style='border-radius: 99999px;'>
         </a>
         <br>
         <a href='https://twitter.com/miro92'>MiRO92</a>
