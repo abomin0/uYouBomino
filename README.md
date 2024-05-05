@@ -109,7 +109,7 @@ See [Installation - Wiki](https://github.com/qnblackcat/uYouPlus/wiki/Installati
 
 ## Credits
 
-- Special thanks to all the developers who have contributed to uYouPlus! 
+- Special thanks to all the developers who have contributed to uYouBomino! 
 
 <table id='credits'>
 <tr align='center'>
